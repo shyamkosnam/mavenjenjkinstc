@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2>Comment down ur fav bike.?</h2>
+	<h2>Comment down ur fav bike?</h2>
   
 </body>
 </html>
